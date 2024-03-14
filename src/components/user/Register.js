@@ -16,7 +16,7 @@ export default function Register() {
       <div className="modal-content">
         <div className="Rigister-header">
           <div className="Register-signup-title">Sign Up</div>
-          <div onClick={() => setFlag(() => 0)} className="close">
+          <div onClick={() => setFlag(() => 3)} className="close">
             &times;
           </div>
         </div>

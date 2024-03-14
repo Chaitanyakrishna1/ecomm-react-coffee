@@ -1,8 +1,9 @@
 .AddButton-button {
-    /* background-color: silver; */
+    background-color: slateblue;
     padding:0px;
     width:130px;
     margin-top: 0px;
+    color: aqua;
 }
 
 .Plusminus-button {
