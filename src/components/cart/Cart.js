@@ -93,7 +93,7 @@ export default function Cart() {
             <div className="Cart-order-value">Order Value: ₹{orderValue}</div>
             <div className="Cart-order-value">
               <button onClick={submitOrder} className="Cart-place-order">
-                Submit Order
+                Proceed to Buy
               </button>
             </div>
           </div>
