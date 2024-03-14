@@ -14,7 +14,7 @@ export default function Navbar() {
   const total = values.length;
   return (
     <div className="navbar">
-      <div className="title">Irish Cafe</div>
+      <div className="title">Irish Cafe</div>     
       <div><h3>Hi {user.name}!</h3></div>
       <div className="links">
         <Link to={`${PATH}/`}> Products </Link>
